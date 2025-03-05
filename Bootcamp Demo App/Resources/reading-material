@@ -1,0 +1,13 @@
+
+Autolayout
+
+1. https://www.advancedswift.com/autolayout-vs-autoresizing-masks/
+2. https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU (Autolayout Playlist)
+
+Knowledge checks:
+2.1 Ambiguous layout, unsatisfiable/conflicting constraints
+
+Exercise:
+1. https://www.figma.com/design/42lPBkCXM0IuVDT46FIcKu/Event-Booking-App--EventHub-(Community)?node-id=704-5541&t=MgBbNBGcfOTz6u9Z-0
+2. https://www.figma.com/design/HYgUmPXhrNiTbPr4Lv0AU6/20-Screen-Login-%26-Register-Mobile-App-(Community)?node-id=3-16852&t=8MAnIoxtI6wMJ9Rp-0
+3. https://www.figma.com/design/HYgUmPXhrNiTbPr4Lv0AU6/20-Screen-Login-%26-Register-Mobile-App-(Community)?node-id=51-1815&t=8MAnIoxtI6wMJ9Rp-0
